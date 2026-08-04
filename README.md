@@ -1,31 +1,143 @@
-# 👋 Hi, I'm Guilherme Meato
+# 👋 Hello, I'm Guilherme Meato
 
-💻 **Aspiring Front-End Developer** passionate about building scalable, responsive, and user-friendly web applications.
+I'm a Software Engineering student passionate about Front-end Development.
 
-🌱 Currently learning and improving my skills in **React and TypeScript**.
+Currently, I'm focused on building modern, responsive and user-friendly web applications using React, TypeScript and JavaScript.
 
-🚀 Technologies I work with:
+My goal is to start my career as a Front-end Developer Intern while continuously improving my software engineering skills.
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* React
-* Git & GitHub
-* REST APIs
+---
 
-📌 Currently looking for an **internship opportunity in Software Development**, where I can grow my technical skills and contribute to real-world projects.
+# 💻 Skills & Technologies
 
-📂 Check out my repositories to see some of the projects I've been working on.
+## Languages
 
-📫 **Email:** [guimeato@gmail.com](mailto:guimeato@gmail.com)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🔗 **LinkedIn:** [www.linkedin.com/in/guimeato]
+## Frameworks & Libraries
 
-⚡ **Fun fact:** I enjoy turning ideas into interactive web applications and continuously learning new technologies.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+## Tools
 
-<!---
-guimeato/guimeato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+# 🚀 What I Do
+
+- Build responsive and accessible user interfaces.
+- Develop modern web applications using React and TypeScript.
+- Consume REST APIs and display dynamic data.
+- Create reusable and scalable React components.
+- Write clean, maintainable and organized code.
+- Use Git and GitHub for version control.
+- Continuously improve through personal projects and coding challenges.
+
+---
+
+# 📂 Featured Projects
+
+## 💰 Crypto Dashboard
+
+A responsive cryptocurrency dashboard built with React and TypeScript using the CoinGecko API.
+
+### Features
+
+- Search cryptocurrencies
+- Favorite coins
+- Currency conversion
+- Coin details
+- Responsive interface
+
+### Tech Stack
+
+- React
+- TypeScript
+- Vite
+- CSS
+- CoinGecko API
+
+🔗 Repository:
+https://github.com/SEU-USUARIO/crypto-dashboard
+
+🔗 Live Demo:
+https://SEU-LINK.vercel.app
+
+---
+
+## ✅ Task Manager
+
+A task management application focused on organization and productivity.
+
+### Tech Stack
+
+- React
+- TypeScript
+- CSS
+
+🔗 Repository:
+https://github.com/SEU-USUARIO/task-manager
+
+---
+
+## 🌤️ Weather App
+
+A weather forecast application consuming a public weather API.
+
+### Tech Stack
+
+- React
+- TypeScript
+- REST API
+
+🔗 Repository:
+https://github.com/SEU-USUARIO/weather-app
+
+---
+
+# 📚 Currently Learning
+
+- Advanced React
+- TypeScript
+- Next.js
+- Testing (Jest & React Testing Library)
+- Clean Code
+- Software Architecture
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=guimeato&show_icons=true&theme=github_dark)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=guimeato&layout=compact&theme=github_dark)
+
+---
+
+# 📫 Connect with Me
+
+📧 Email
+
+guimeato@gmail.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/SEU-LINKEDIN
+
+💻 GitHub
+
+https://github.com/guimeato
+
+---
+
+⭐ Thanks for visiting my profile!
