@@ -68,40 +68,7 @@ A responsive cryptocurrency dashboard built with React and TypeScript using the 
 - CoinGecko API
 
 🔗 Repository:
-https://github.com/SEU-USUARIO/crypto-dashboard
-
-🔗 Live Demo:
-https://SEU-LINK.vercel.app
-
----
-
-## ✅ Task Manager
-
-A task management application focused on organization and productivity.
-
-### Tech Stack
-
-- React
-- TypeScript
-- CSS
-
-🔗 Repository:
-https://github.com/SEU-USUARIO/task-manager
-
----
-
-## 🌤️ Weather App
-
-A weather forecast application consuming a public weather API.
-
-### Tech Stack
-
-- React
-- TypeScript
-- REST API
-
-🔗 Repository:
-https://github.com/SEU-USUARIO/weather-app
+https://github.com/guimeato/crypto-dashboard
 
 ---
 
@@ -116,13 +83,6 @@ https://github.com/SEU-USUARIO/weather-app
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=guimeato&show_icons=true&theme=github_dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guimeato&layout=compact&theme=github_dark)
-
----
 
 # 📫 Connect with Me
 
@@ -132,7 +92,7 @@ guimeato@gmail.com
 
 💼 LinkedIn
 
-https://linkedin.com/in/SEU-LINKEDIN
+https://linkedin.com/in/guimeato
 
 💻 GitHub
 
