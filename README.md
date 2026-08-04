@@ -49,7 +49,7 @@ My goal is to start my career as a Front-end Developer Intern while continuously
 
 ## 💰 Crypto Dashboard
 
-A responsive cryptocurrency dashboard built with React and TypeScript using the CoinGecko API.
+A responsive cryptocurrency dashboard built with Vite and JavaScript using the CoinGecko API.
 
 ### Features
 
