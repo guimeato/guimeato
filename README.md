@@ -60,21 +60,22 @@
 ## 📂 Featured Projects
 
 ### 💰 Crypto Dashboard
-A responsive cryptocurrency dashboard built with Vite and JavaScript using the CoinGecko API.
+A cryptocurrency dashboard built with JavaScript, integrating the CoinGecko API, with automated tests using Vitest.
 
 **Features**
+- Top 10 cryptocurrencies by market cap
 - Search cryptocurrencies
-- Favorite coins
-- Currency conversion
+- Favorite coins (persisted with `localStorage`)
+- Currency conversion (USD, BRL, EUR)
 - Coin details
 - Responsive interface
 
 **Tech Stack**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![CoinGecko API](https://img.shields.io/badge/CoinGecko%20API-8DC63F?style=flat-square&logo=coingecko&logoColor=white)
 
 🔗 **Repository:** [github.com/guimeato/crypto-dashboard](https://github.com/guimeato/crypto-dashboard)
